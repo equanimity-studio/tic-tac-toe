@@ -6,6 +6,8 @@ Tic-tac-toe in the browser, with two-player mode and two computer opponents, bui
 
 Built with HTML, CSS and vanilla JavaScript.
 
+> **Note:** All of the code in this repository is my own, written by hand in 2023 without AI assistance. This README was updated in 2026 with help from Claude.
+
 ## Features
 
 - Two players on one device, with editable player names
